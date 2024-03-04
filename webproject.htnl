@@ -1,0 +1,188 @@
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> this is my project </title>
+	<link rel="stylesheet" type="text/css" href="webproject.css">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,700;1,100;1,500&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.2/css/fontawesome.min.css"> 
+
+	</head>
+	<body>
+	<section class="header">
+
+
+	<nav> 
+	<h3 style="color:white;"> Collage  </h3>
+
+	<div class="nav-links" id="navLinks">
+	<i class="fa fa-times" onclick="hideMenu()"></i>
+	<ul>
+	<li><a href="">HOME </a></li>
+	<li><a href="">COURSE</a></li>
+	<li><a href="">ABOUT</a></li>
+	<li><a href="">CONTACT </a></li>
+	<li><a href="">FEEDBACK</a></li>
+	</ul>
+	</div>
+	<i class="fa fa-bars" onclick="showMenu()"></i>
+	</nav>
+
+
+	<div class="text-box">
+	<h1 > INDIA'S BEST UNIVERSITY</h1>
+	<p> making website is now one of the easist thing in the world. making website is now one of the easist thing in the world. <br> making website is now one of the easist thing in the world. </p>
+	<a href="" class="hero-btn">VISIT US TO KNOW MORE  </a>
+	</div>
+	</section > 
+	<!-- /* section course */ -->
+
+	
+	<section class="course">  
+	<h1> course we offers </h1>
+	<p> html5 is the new verson of the html</p>
+
+
+	<div class="row">
+	<div class="course-col">
+	<h3> c language</h3>
+	<p> it is a best programing language its help to we creater 
+	a successfull game.it is a best programing language its help to we creater 
+	a successfull game.</p>
+
+	</div>
+	<div class="course-col">
+	<h3> c++ language</h3>
+	<p> it is a best programing language its help to we creater 
+	a successfull game.it is a best programing language its help to we creater 
+	a successfull game.</p>
+
+	</div>
+	<div class="course-col">
+	<h3> #c language</h3>
+	<p> it is a best programing language its help to we creater 
+	a successfull game.it is a best programing language its help to we creater 
+	a successfull game.</p>
+
+	</div>
+	</div>
+	</div>
+	</div>
+
+	</section>
+<!-- 	-------------campus--------------- -->
+	<section class="campus">
+		<h1>OUR GLOBEL CAMPUS</h1>
+			<p> This is a world level collage.</p>
+			<div class="row">
+				<div class="campus-col">
+					<img src="bg.jpg" height="600px" width="250px">
+					<div class="layer"> <h3>london</h3></div>
+				</div>
+				<div class="campus-col">
+					<img src="bg.jpg" height="600px" width="250px">
+					<div class="layer"> <h3>new-yourk</h3></div>
+				</div>
+				<div class="campus-col">
+					<img src="bg.jpg" height="600px" width="250px">
+					<div class="layer"> <h3>india</h3></div>
+				</div>
+			</div>
+	</section>
+
+<!-- 	/*---------facilities -------*/ -->
+
+	<section class="facilities">
+		<h1> OUR FACILITES</h1>
+		<p> our facility are so best and good , this is the best facility collage in INDIA.</p>
+			<div class="row">
+			<div class="facilities-col"> 
+				<img src="bg.jpg"height="200px" width="200px">
+				<h3>world class library </h3>
+				<p>this is a best library in the world. this is a best library in the world .</p>
+			</div> 
+			<div class="facilities-col"> 
+				<img src="bg.jpg"height="200px" width="200px">
+				<h3>world class library .this is a best library in the world .</h3>
+				<p>this is a best library in the world.this is a best library in the world . </p>
+			</div> 
+			<div class="facilities-col"> 
+				<img src="bg.jpg" height="200px" width="200px">
+				<h3>world class library </h3>
+				<p>this is a best library in the world.this is a best library in the world .</p>
+			</div> 
+		</div>
+
+	</section>
+
+
+<!--  -------------testi monials--------------------------- -->
+
+ <section class="testi-monials">
+ 	<h1> WHAT OUR STUDENTS SAYS </h1>
+ 	<p > cc full form is cast scading style sheet. </p>
+ 	<div class="row">
+ 		<div class="testi-monials-col"> 
+ 		<img src="bg.jpg"> 
+ 			<p><div> this is a castscading style sheet language 
+ 			stands for s=giving style to our html by using css.this is a castscading style sheet language 
+ 			stands for s=giving style to our html by using css</div>
+ 		 </p> 
+ 		 <h3> css language </h3></div>
+ 	</div>
+
+ 	<div class="testi-monials-col"> 
+ 		<img src="bg.jpg"> 
+ 			<p><div> this is a castscading style sheet language 
+ 			stands for s=giving style to our html by using css.this is a castscading style sheet language 
+ 			stands for s=giving style to our html by using css</div>
+ 		 </p> 
+ 		 <h3> css language </h3></div>
+ 	</div>
+
+ 	 
+ 		
+ 	
+ </section>
+
+
+<!-- -------------------------CALL TO ACTION------------------- -->
+ <section class="cta">
+ 		<h1> enroll for our varius course for free enroll for study from here</h1>
+ 		<a href="" class="hero-btn"> contact us</a>
+  </section>
+
+<!-- -------------------------foooter------------------- -->
+
+<section class="footer">
+	<h3>about</h3>
+	<p> this is a footer site it is a last</p>
+	<div class="icons">
+		<i class="fa fa-facebook">#</i>
+		<i class="fa fa-facebook">*</i>
+		<i class="fa fa-facebook">+</i>
+		
+
+
+	</div>
+</section>
+
+
+	<!-- /* javascript for toggle menu*/ -->
+	<script type="text/javascript"> 
+	var navLinks=document.getElementById("navLinks");
+	function showMenu(){
+	navLinks.style.right ="0";
+	}
+	function hideMenu(){
+	navLinks.style.right="-200px";
+	}
+
+
+	</script>
+
+	</body>
+	</html>
